@@ -22,19 +22,40 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 ```
+2. Navigate to the project directory:
 
-How It Works
-The app initializes with a random motivational quote from a pre-defined array of quotes.
-Every 60 seconds, a new random quote is displayed.
-Tailwind CSS is used for styling, creating a simple and responsive layout.
-Technologies Used
-React.js
-Tailwind CSS
-JavaScript
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+```bash
+cd your-repo-name
 
-Contributions
+```
+
+3. Install the dependencies:
+```bash
+npm install
+```
+
+4.  Start the development server:
+```bash
+npm run dev
+```
+## How It Works
+  - The app initializes with a random motivational quote from a pre-defined array of quotes.
+  - Every 60 seconds, a new random quote is displayed.
+
+# Tailwind CSS is used for styling, creating a simple and responsive layout.
+
+## Technologies Used
+- React.js
+- Tailwind CSS
+- JavaScript
+
+
+
+## Contributions
 Feel free to fork the repository and submit pull requests if you would like to contribute to the project.
+```bash
 
+Replace `"https://your-live-link-here"` with the actual live link of your project. You can also update the `git clone` URL to your repository's actual URL.
+
+```
  
