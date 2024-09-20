@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-
+```
 
 How It Works
 The app initializes with a random motivational quote from a pre-defined array of quotes.
